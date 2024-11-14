@@ -1,0 +1,12 @@
+{
+    "email": "incubyte@demo.com",
+    "firstName": "incubyte",
+    "lastName": "qa",
+    "streetName": "123 Street Ball",
+    "cityName": "New York",
+    "regionName": "New York",
+    "pincode": 10001,
+    "countryName": "United States",
+    "phone": 1234567890,
+    "methodTitle": "Fixed"
+}
